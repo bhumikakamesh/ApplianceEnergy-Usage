@@ -39,4 +39,10 @@ The results indicate meaningful predictive capability on real-world energy data.
 1. Open the notebook in Google Colab
 2. Upload the dataset
 3. Run all cells sequentially
+    ## Conclusion
+This project demonstrates an end-to-end machine learning pipeline for
+energy consumption prediction using real-world data. The results show
+meaningful predictive performance and provide actionable insights for
+energy efficiency.
+
 
